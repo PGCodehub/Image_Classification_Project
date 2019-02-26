@@ -1,6 +1,6 @@
 # Image Classification Project
 
-The Image Classification Project is trained on Flower dataset with 101 categories and has to code in train.py to 
+A CNN models was Trained for Image Classification Project is trained on Flower dataset with 101 categories and has to code in train.py to 
 train on different datasets using Transfer Learning
 
 
